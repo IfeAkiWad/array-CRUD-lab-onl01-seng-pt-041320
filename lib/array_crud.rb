@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   birth_order = ["Ifeoluwa"]
   birth_order << "Oluwatoyin"
-    puts famous_cats.inspect
+    puts birth_order.inspect
 
 end
 
