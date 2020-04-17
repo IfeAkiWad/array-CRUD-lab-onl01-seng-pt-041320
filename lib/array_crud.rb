@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  birth_order = ["Ifeoluwa", "Oluwatoyin"]
-  birth_order << "Oluwatoyosi"
+  birth_order = []
+  birth_order << "Ifeoluwa"
     puts birth_order.inspect
   end
 end
