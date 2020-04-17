@@ -7,9 +7,10 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  birth_order = []
-  birth_order << "Ifeoluwa"
-    puts birth_order.inspect
+  array = []
+  element = "Ifeoluwa"
+  array << "Ifeoluwa"
+    puts array.inspect
   end
 
 def add_element_to_start_of_array(array, element)
